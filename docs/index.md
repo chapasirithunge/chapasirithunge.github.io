@@ -14,10 +14,6 @@ Bio-Inspired Robotics Lab, University of Cambridge  |  [LinkedIn](https://www.li
 
 ---
 
-## About Me
-
-I am a Marie-Curie **postdoctoral fellow** specialising in **robotics** with a passion for **service robots  and human-centred design**. Currently based at **University of Cambridge**, I work on projects that integrate **multimodel sensing, morphological design of robots and embodied intelligence**, aiming to **develop robots which can serve a wider range of applications**.
-
 ---
 
 ## Research Interests
@@ -26,29 +22,6 @@ I am a Marie-Curie **postdoctoral fellow** specialising in **robotics** with a p
 - **Human-centered systems**: To create human-centered robots, designers should integrate sensory capabilities and adaptive mechanisms that prioritize interpreting human cues, understanding environmental context, and responding with behaviors aligned with natural human interaction patterns.
 - **Soft Robotics**: Soft robotics enhances these concepts by providing flexible, adaptive structures that better mimic human motion and tactile responsiveness, enabling more intuitive, safe, and effective interactions with people and environments.
 - **Bio-inspired robots**: Bio-inspired robots achieve embodiment by replicating natural forms and adaptive behaviors, allowing them to navigate and interact within environments more organically and effectively, similar to living organisms.
-
----
-
-## Projects
-
-### Robopatient
-Robopatient is a medical robotic simulator which investigates how human participants use haptic exploration behaviours to detect abnormalities in a soft tissue given palpation force constraints. Research around this platform focuses on  training medical students to perform physical examinations on patients under constraints imposed by pain expressions conditioned by different gender and culture backgrounds. Robopatient is currently capable of generating "pain" based on pain expressions such as facial expressions and pain sound based on palpation during diagnosis. I am using this robotic platform to study the embodied generation of pain expressions.
-
-![Video](images/robopatient.gif)
-
-### Soft manipulation
-The exceptional dexterity, adaptability, and sensory feedback of human and primate hands serve as a gold standard for developing soft robotic hands, inspiring designs that aim to replicate nuanced movements, grip versatility, and tactile precision for complex tasks.
-
-![Video](images/wearable.gif)
-
-### Simulation work
-I am using multi-agent systems (MAS), information theory and machine learning to simulate context-aware models in complex environments.
-
-### Robot building 
-I love building robots! Here are some designs I developed for robots, human studies and exhibitions during the last two years.
-
- <img src="images/robots.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
- <img src="images/robopatient_1.JPG" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
 ---
 
