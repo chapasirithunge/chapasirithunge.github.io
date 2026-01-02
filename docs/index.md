@@ -14,8 +14,6 @@ Bio-Inspired Robotics Lab, University of Cambridge  |  [LinkedIn](https://www.li
 
 ---
 
----
-
 ## Research Interests
 
 - **Embodied agents**: Robot design directly influences embodied agents by shaping their physical interactions, sensory processing, and adaptive behaviors, ultimately impacting their ability to learn from and respond to their environment effectively.
