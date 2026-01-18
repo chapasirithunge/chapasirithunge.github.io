@@ -29,7 +29,7 @@ theme:
 
 nav:
   - About Me: 
-    - about_me/index.md
+    - index.md
     - Talks: Talks.md
     - Events: Events.md
     - News:  News.md
