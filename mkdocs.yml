@@ -28,8 +28,8 @@ theme:
       accent: deep orange
 
 nav:
-  - About Me: index.md
-  - Live: 
+  - About Me: 
+    - about_me/index.md
     - Talks: Talks.md
     - Events: Events.md
     - News:  News.md
