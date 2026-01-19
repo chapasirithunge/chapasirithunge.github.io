@@ -3,7 +3,7 @@
 *Robotics for Safe Human-Machine Interaction*  
 Digital Roads of the Future Lunch time seminar, Department of Civil Engineering, University of Cambridge
 
-![](assets/images/DRFTalk.jpg)
+![](../assets/images/DRFTalk.jpg)
 
 ## 2025
 
