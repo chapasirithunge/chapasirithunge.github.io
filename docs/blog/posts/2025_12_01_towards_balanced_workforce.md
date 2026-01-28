@@ -17,7 +17,7 @@ Why does it matter?
 
 Robotics (and more broadly speaking, science) has long been dominated by male perspectives and ideas. This has in some areas lead to stalemates where the state of the art has barely progressed for many years. Introducing fresh ideas and new perspectives is the most natural conclusion. Be confident speakers; your voicesmatter. Great researchers aren’t always those with vast resources, but those who turn limitations into creativityand challenges into breakthroughs.
 
-My thanks to Prof. Fumiya Iida, my supervisor and a male, who once said, “Why don’t we start something to helpmore talented women like you break barriers and step into robotics?”. That spark became the beginning of our initiative.
+My thanks to Prof. Fumiya Iida, my supervisor and a male, who once said, “Why don’t we start something to help more talented women like you break barriers and step into robotics?”. That spark became the beginning of our initiative.
 
 <figure markdown="span">
     ![](../assets/images/yi.jpg){ width="75%" }

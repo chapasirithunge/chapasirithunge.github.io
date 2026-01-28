@@ -30,11 +30,11 @@ theme:
 nav:
   - About Me: index.md
   - Live: 
-    - Talks: Talks.md
-    - Events: Events.md
-    - News:  News.md
+    - News: live/News.md
+    - Talks: live/Talks.md
+    - Events: live/Events.md
   - Projects:
-    - projects/index.md
+    - Overview: projects/overview.md
     - Robotic Patients: projects/Robotic_Patients.md
     - Soft Robotics: projects/Soft_Manipulation.md
     - Service Robots: projects/Service_robots.md

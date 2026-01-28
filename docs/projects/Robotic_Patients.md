@@ -5,7 +5,7 @@ Robopatient is a medical robotic simulator which investigates how human particip
     <source src="../../assets/images/robopatient.mp4" type="video/mp4">
 </video>
 
-##Related Publications
+## Related Publications
 
 
 We examined how a personalised approach to display pain expressions of individuals affect human preferences for pain expressivity in robotic patients. We used Proximal Policy Control to adapt pain expressions based on human input. 
@@ -13,6 +13,7 @@ We examined how a personalised approach to display pain expressions of individua
 ???+ "Read full paper here"
     [Palpation Alters Auditory Pain Expressions With Gender-Specific Variations in Robopatients](https://ieeexplore.ieee.org/document/11177232)  
     *IEEE Transactions on Medical Robotics and Bionics*, 2025  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PVvIM2vuCak?si=kOGltEooc-2eb8Je" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 RoboPatient could further synthesise vocal and facial pain expressions from haptic input during palpation to support clinician training and reduce diagnostic errors. A user study with 7,680 trials shows that pain perception is primarily driven by sound pitch and amplitude, with stronger forces producing more realistic and congruent pain responses. 
    
