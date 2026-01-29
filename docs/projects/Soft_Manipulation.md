@@ -42,4 +42,4 @@ I recently integrated Electrical Impedance Tomography (EIT) into the development
   <source src="../../assets/images/EIT.mp4" type="video/mp4">
 </video>
 
-This is a scenario where we embedded EIT into an abdomen phantom of a robotic patient. Pain expressions are generated based on the palpation performed by the robotic manipulator on the robopatient. 
+This is a scenario where we embedded EIT into an abdomen phantom of a robotic patient. Pain expressions are generated based on the palpation performed by the robotic manipulator on the robopatient. EIT acts as a sensor as well as the outerskin of the abdominal phantom. This is ongoing work.
