@@ -9,6 +9,9 @@ I’m passionate about advancing robotics through innovative research, impactful
 
 **Email**: [csh66@cam.ac.uk](mailto:csh66@cam.ac.uk)  
 
- [Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)
+ [Google Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)
+
  [LinkedIn](https://www.linkedin.com/in/chapa-sirithunge-b932719a/)   
  
+
+![Profile Photo ](../assets/images/cam.png)
