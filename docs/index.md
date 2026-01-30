@@ -8,3 +8,7 @@ I am a Marie-Curie **postdoctoral fellow** specialising in **robotics** with a p
 I’m passionate about advancing robotics through innovative research, impactful projects, and engaging outreach. If any of these topics resonate with you—whether you’re interested in collaborating, learning more about my work, or simply discussing the future of robotics—I’d love to connect. Please feel free to reach out!
 
 **Email**: [csh66@cam.ac.uk](mailto:csh66@cam.ac.uk)  
+
+ [Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)
+ [LinkedIn](https://www.linkedin.com/in/chapa-sirithunge-b932719a/)   
+ 
