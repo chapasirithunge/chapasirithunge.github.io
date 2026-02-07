@@ -1,7 +1,8 @@
 # Highlights for 2026
 
 18-20 March 2026  
-*Embodied Intelligence Conference 2026*
+General co-chair, *Embodied Intelligence Conference 2026*
+[Register here](https://embodied-intelligence.org/)
 
 7-11 April  
 *Understanding Soft-Matter Stiffness: Key Challenges and Emerging Research Directions*    
