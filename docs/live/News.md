@@ -1,3 +1,9 @@
+##2026
+
+- **Embodied Intelligence Conference 2026**: Successfully wrapped up with many exciting collaborations and ideas!
+
+![](../assets/images/EI26.jpeg)
+
 ## 2025  
 
 - **Just concluded EI 2025 Proceedings**: Embodied Intelligence (EI) Conference 2025 was a highlight for me, as I co-chaired the event with my supervisor, Prof. Fumiya Iida. The online format brought together speakers and scientists from diverse fields to explore EI collectively, and following the discussions we opened a call for papers that concluded in December 2025. I’m looking forward to the conversations emerging from the proceedings.
