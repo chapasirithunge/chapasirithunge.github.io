@@ -11,8 +11,7 @@ Proactive Robots With the Perception of Nonverbal Human Behavior: A Review - [*I
   
 One highlight was running human studies, surveys, and Wizard-of-Oz experiments. A key finding was around what people actually prefer when it comes to how robots look and behave — particularly their perceptual cues. It was also really interesting to see how open the local community was to having robots around for assistance (this research was done in Sri Lanka at the time).
 
-
-
+![](../assets/images/robotdrawings.jpg)
 Illustrations from the [work](https://iopscience.iop.org/article/10.1088/1757-899X/1292/1/012014/meta) which outlines the flexibility of participants' preferences on robots look but all of them have eyes as perceptual cues.
 
 
