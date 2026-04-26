@@ -18,5 +18,5 @@ We examined how a personalised approach to display pain expressions of individua
 RoboPatient could further synthesise vocal and facial pain expressions from haptic input during palpation to support clinician training and reduce diagnostic errors. A user study with 7,680 trials shows that pain perception is primarily driven by sound pitch and amplitude, with stronger forces producing more realistic and congruent pain responses. 
    
 ???+ "Read full paper here"
-    [Auditory-Tactile Congruence for Synthesis of Adaptive Pain Expressions in RoboPatients](https://arxiv.org/abs/2506.11827)  
-    *Advanced Robotics Research*, 2026 (Accepted)  
+    [Auditory-Tactile Congruence for Synthesis of Adaptive Pain Expressions in RoboPatients](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500138)  
+    *Advanced Robotics Research*, 2026  
