@@ -1,13 +1,28 @@
 # 2026
+
+04.2026
+*Soft Robotic Surrogates for Understanding Human Anatomical and Communicative Design*
+Kento Kawaharasuka Lab, University of Tokyo
+
+04.2026
+*Robotic Proxies for Understanding Human Design*
+Bio-Inspired Robotics Lab, University of Tokyo
+
+04.2026
 *Politics of softness- Who controls touch, force and perception?*  
 "Understanding Soft-Matter Stiffness: Key Challenges and Emerging Research Directions" Workshop, RoboSoft 2026, Kanazawa, Japan
 
-![](../assets/images/1775570432606.jpg)
+<!-- ![](../assets/images/1775570432606.jpg) -->
 
+03.2026
+*Robotic Proxies for Understanding Human Design*
+CREATE Lab, EPFL
+
+01.2026
 *Robotics for Safe Human-Machine Interaction*  
 Digital Roads of the Future Lunch time seminar, Department of Civil Engineering, University of Cambridge
 
-![](../assets/images/DRFTalk.jpg)
+<!-- ![](../assets/images/DRFTalk.jpg) -->
 
 ## 2025
 
@@ -15,6 +30,10 @@ Digital Roads of the Future Lunch time seminar, Department of Civil Engineering,
 *Robot anatomy and design*  
 Robot Talk Podcast 
 [Listen on YouTube](https://www.youtube.com/watch?v=Nn8j9Y3boIM)
+
+11.2025
+*Robotics for Human-Machine Safety*
+A47 Site Visit, Galliford Try
 
 10.2025  
 *Robotic Proxies to Understand Human Design*    
