@@ -1,4 +1,8 @@
 # 2026
+*Politics of softness- Who controls touch, force and perception?*  
+"Understanding Soft-Matter Stiffness: Key Challenges and Emerging Research Directions" Workshop, RoboSoft 2026, Kanazawa, Japan
+
+![](../assets/images/1775570432606.jpg)
 
 *Robotics for Safe Human-Machine Interaction*  
 Digital Roads of the Future Lunch time seminar, Department of Civil Engineering, University of Cambridge
