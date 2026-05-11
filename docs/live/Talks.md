@@ -8,7 +8,7 @@ Kento Kawaharasuka Lab, University of Tokyo
 *Robotic Proxies for Understanding Human Design*
 Bio-Inspired Robotics Lab, University of Tokyo
 
-04.2026 
+04.2026  
 *Politics of softness- Who controls touch, force and perception?*  
 "Understanding Soft-Matter Stiffness: Key Challenges and Emerging Research Directions" Workshop, RoboSoft 2026, Kanazawa, Japan
 
