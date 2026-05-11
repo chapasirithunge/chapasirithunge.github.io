@@ -1,6 +1,6 @@
 # 2026
 
-04.2026 
+04.2026     
 *Soft Robotic Surrogates for Understanding Human Anatomical and Communicative Design*
 Kento Kawaharasuka Lab, University of Tokyo
 
