@@ -4,7 +4,7 @@
 *Soft Robotic Surrogates for Understanding Human Anatomical and Communicative Design*
 Kento Kawaharasuka Lab, University of Tokyo
 
-04.2026 
+04.2026     
 *Robotic Proxies for Understanding Human Design*
 Bio-Inspired Robotics Lab, University of Tokyo
 
@@ -14,11 +14,11 @@ Bio-Inspired Robotics Lab, University of Tokyo
 
 <!-- ![](../assets/images/1775570432606.jpg) -->
 
-03.2026 
+03.2026         
 *Robotic Proxies for Understanding Human Design*
 CREATE Lab, EPFL
 
-01.2026 
+01.2026      
 *Robotics for Safe Human-Machine Interaction*  
 Digital Roads of the Future Lunch time seminar, Department of Civil Engineering, University of Cambridge
 
