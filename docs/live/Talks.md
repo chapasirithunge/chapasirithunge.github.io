@@ -2,7 +2,7 @@
 
 04.2026     
 *Soft Robotic Surrogates for Understanding Human Anatomical and Communicative Design*       
-Kento Kawaharasuka Lab, University of Tokyo     
+Kento Kawaharazuka Lab, University of Tokyo     
 
 04.2026     
 *Robotic Proxies for Understanding Human Design*        
