@@ -43,3 +43,15 @@ I recently integrated Electrical Impedance Tomography (EIT) into the development
 </video>
 
 This is a scenario where we embedded EIT into an abdomen phantom of a robotic patient. Pain expressions are generated based on the palpation performed by the robotic manipulator on the robopatient. EIT acts as a sensor as well as the outerskin of the abdominal phantom. This is ongoing work.
+
+## Robotic legs for passive terrain locomotion
+
+<iframe width="560" height="315" src="https://youtu.be/FaZRlDw9CyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+A passive soft–rigid coupled blade leg equipped with barometric pressure sensors was able to effectively perceive a wide range of surface textures, including coir, sand, Aluminium and pebbles. These results provide insight into how passive sensor placement and composite material design can enhance tactile perception and environmental awareness in future quadruped and humanoid robots.
+
+
+???+  "Read related work here"
+    [Soft-Rigid Coupled Blade Leg Achieves Spatio-temporal Terrain Classification with Minimal Sensor Configuration](https://ieeexplore.ieee.org/abstract/document/11247489/)
+
