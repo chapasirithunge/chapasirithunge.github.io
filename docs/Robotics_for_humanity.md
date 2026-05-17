@@ -13,9 +13,10 @@ This recent study explores emotion-mediated soft robotic art by linking human br
 
 This photo, awarded runner-up at the RoboSoft 2026 art gallery, reflects how robots can become more than machines. They can also carry meaningful messages through art.
 
-![](../assets/images/soro26.jpg)
+![](../assets/images/roso26.jpg)
 
-Title: A Non-Digital Message
+Title: A Non-Digital Message        
+
 Abstract: This work presents a gender-neutral human face cast in silicone as a physical interface through which robots can communicate in ways that remain grounded in the natural world. Rather than relying on fully digital avatars or screen-based expressions, the piece explores how soft, tactile materials can carry robotic intent through subtle deformation, texture, and contact. Silicone; chosen for its skin-like compliance and responsiveness, acts as a medium for translating robotic signals into gestures that feel organic, familiar, and emotionally legible.
 
 By embedding robotic messaging within a physical, touchable form, the work challenges the increasing digitalisation of human–robot communication and asks how machines might remain materially connected to human sensory experience. The face does not imitate a specific individual; instead, its neutrality invites projection, interaction, and reflection on shared embodiment. Positioned between sculpture and interface, the piece proposes a future in which robots express themselves not through abstraction or screens, but through soft, bio-inspired forms that resonate with human perception and memory.
