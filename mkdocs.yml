@@ -30,9 +30,9 @@ theme:
 nav:
   - About Me: index.md
   - Gallery: 
-    - News: live/News.md
-    - Talks: live/Talks.md
-    - Events: live/Events.md
+    - News: Gallery/News.md
+    - Talks: Gallery/Talks.md
+    - Events: Gallery/Events.md
   - Projects:
     - Overview: projects/overview.md
     - Robotic Patients: projects/Robotic_Patients.md
