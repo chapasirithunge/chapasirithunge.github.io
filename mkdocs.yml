@@ -29,7 +29,7 @@ theme:
 
 nav:
   - About Me: index.md
-  - Live: 
+  - Gallery: 
     - News: live/News.md
     - Talks: live/Talks.md
     - Events: live/Events.md
