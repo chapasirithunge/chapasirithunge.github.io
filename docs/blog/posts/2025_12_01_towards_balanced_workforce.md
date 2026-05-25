@@ -11,7 +11,7 @@ When I joined my lab three years ago, I was the only female researcher. While th
 
 What can new female researchers entering robotics improve?
 
-Our events and experiences have shown us that women in robotics need strategy; a clear plan to not onlysurvive but thrive. It’s about sustaining energy, protecting motivation, and creating networks that help us grow even when the path feels uncertain. Balancing ambition with well-being always becomes easier through intention and collaboration. Strategy means knowing when to push forward, when to pause, and how to keep our spark alive, while lifting others along the way.
+Our events and experiences have shown us that women in robotics need strategy; a clear plan to not only survive but thrive. It’s about sustaining energy, protecting motivation, and creating networks that help us grow even when the path feels uncertain. Balancing ambition with well-being always becomes easier through intention and collaboration. Strategy means knowing when to push forward, when to pause, and how to keep our spark alive, while lifting others along the way.
 
 Why does it matter?
 

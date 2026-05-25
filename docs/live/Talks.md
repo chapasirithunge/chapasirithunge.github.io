@@ -1,5 +1,10 @@
 # 2026
 
+05.2026     
+*How to conduct fundamental research? Insights from robotics and AI*        
+Research Lounge, Faculty of Graduate Studies, University of Moratuwa        
+
+
 04.2026     
 *Soft Robotic Surrogates for Understanding Human Anatomical and Communicative Design*       
 Kento Kawaharazuka Lab, University of Tokyo     
