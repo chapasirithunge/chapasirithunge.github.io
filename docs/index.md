@@ -15,4 +15,4 @@ I’ll be joining the University of Bristol as an Assistant Professor in Robotic
  [LinkedIn](https://www.linkedin.com/in/chapa-sirithunge-b932719a/)   
  
 
-![Profile Photo ](../assets/images/uni.jpg)
+![Profile Photo ](../assets/images/unis.jpg)
