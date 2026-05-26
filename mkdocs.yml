@@ -24,7 +24,7 @@ theme:
     - search.suggest
   palette:
     - scheme: slate
-      primary: lime
+      primary: 1de9b6
       accent: deep orange
 
 nav:
