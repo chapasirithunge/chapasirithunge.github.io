@@ -29,15 +29,15 @@ theme:
 
 nav:
   - About Me: index.md
-  - Gallery: 
-    - News: Gallery/News.md
-    - Talks: Gallery/Talks.md
-    - Events: Gallery/Events.md
   - Projects:
     - Overview: projects/overview.md
     - Robotic Patients: projects/Robotic_Patients.md
     - Soft Robotics: projects/Soft_Manipulation.md
     - Service Robots: projects/Service_robots.md
+  - Talks: Talks.md
+  - Gallery: 
+    - News: Gallery/News.md
+    - Events: Gallery/Events.md
   - Robotics for humanity: Robotics_for_humanity.md
   - Networks: Networks.md
   - Blog:
