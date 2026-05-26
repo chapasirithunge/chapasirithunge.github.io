@@ -36,8 +36,7 @@ nav:
     - Service Robots: projects/Service_robots.md
   - Talks: Talks.md
   - Gallery: 
-    - News: Gallery/News.md
-    - Events: Gallery/Events.md
+    - News: Gallery/News.md   
   - Robotics for humanity: Robotics_for_humanity.md
   - Networks: Networks.md
   - Blog:
