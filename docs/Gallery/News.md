@@ -6,7 +6,18 @@
 
 ## 2025  
 
-- **Just concluded EI 2025 Proceedings**: Embodied Intelligence (EI) Conference 2025 was a highlight for me, as I co-chaired the event with my supervisor, Prof. Fumiya Iida. The online format brought together speakers and scientists from diverse fields to explore EI collectively, and following the discussions we opened a call for papers that concluded in December 2025. I’m looking forward to the conversations emerging from the proceedings.
+*Chat about robotics*         
+A casual chat with new comers to robotics in Cambridge with [Women in Robotics Cambridge Initiative](https://sites.google.com/view/wir-cambridge)         
+
+
+*Bio-Inspired Robotic Perception and Control*  
+Workshop at IROS 2025     
+
+*Expanding Emotion-Mediated Soft Robotics into Immersive Public Art*  
+Robotics for Arts public exhibition at International Conference on Robotics and
+Automation (ICRA) 2025      
+
+- **Just concluded EI 2025 Proceedings**: Embodied Intelligence (EI) Conference 2025 was a highlight for me, as I co-chaired the event with my supervisor, Prof. Fumiya Iida. The online format brought together speakers and scientists from diverse fields to explore EI collectively, and following the discussions we opened a call for papers that concluded in December 2025. A record number of 750+ registrations received this year. I’m looking forward to the conversations emerging from the proceedings. 
 
 - **Published my first book**: Together with Prof. Fumiya Iida, I co-authored "Foundations of Embodied Intelligence for Robotic Systems", a text book for newcomers in the field of robotics. [[Full Text]](https://www.researchgate.net/publication/397764549_Foundations_of_Embodied_Intelligence_for_Robotic_Systems) [[Online Publication]](https://www.emerald.com/ftrob/article-abstract/12/4/350/1335132/Foundations-of-embodied-intelligence-for-robotic?redirectedFrom=fulltext)
 
