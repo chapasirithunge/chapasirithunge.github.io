@@ -1,6 +1,6 @@
 ## 2026
 
-7-11 April  
+ 
 - **Understanding Soft-Matter Stiffness: Key Challenges and Emerging Research Directions**   
 Half Day workshop at Robosoft 2026 in Kanazawa, Japan
 
@@ -10,14 +10,14 @@ Half Day workshop at Robosoft 2026 in Kanazawa, Japan
 
 ## 2025  
 
-*Chat about robotics*         
+- **Chat about robotics**         
 A casual chat with new comers to robotics in Cambridge with [Women in Robotics Cambridge Initiative](https://sites.google.com/view/wir-cambridge)         
 
 
-*Bio-Inspired Robotic Perception and Control*  
+- **Bio-Inspired Robotic Perception and Control**        
 Workshop at IROS 2025     
 
-*Expanding Emotion-Mediated Soft Robotics into Immersive Public Art*  
+- **Expanding Emotion-Mediated Soft Robotics into Immersive Public Art**  
 Robotics for Arts public exhibition at International Conference on Robotics and
 Automation (ICRA) 2025      
 
