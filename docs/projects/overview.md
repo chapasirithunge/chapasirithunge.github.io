@@ -6,8 +6,6 @@ I study how robots can be used to understand human design, using robotic fine ma
 ## Robot building 
 I love building robots! Here are some highlights from the last couple years. These are from projects, human studies and exhibitions.
 
-![Profile Photo](../assets/images/robots.jpg)
-
 <iframe width="800" height="400" src="https://www.youtube.com/embed/_Iq9ZTmC33o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Among these are robotic fingers, legs, faces, skins and wearables to understand the human design and skills. 
@@ -21,7 +19,7 @@ I am using multi-agent systems (MAS), virtual model control, information theory 
     <source src="../../assets/images/excavator.webm" type="video/mp4">
 </video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PhEBbaSPLAE?si=n3v_Kogu8amjrBtJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/PhEBbaSPLAE?si=n3v_Kogu8amjrBtJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Sim to real
 We developed compliant robot control that treats humans, objects, and machines uniformly, ensuring safety in complex environments without extensive sensing or simulation. The approach targets construction and factory settings and scales to close human–machine interaction with minimal sensing and high human safety.
