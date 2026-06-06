@@ -8,7 +8,7 @@ I love building robots! Here are some highlights from the last couple years. The
 
 ![Profile Photo](../assets/images/robots.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Iq9ZTmC33o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/_Iq9ZTmC33o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Among these are robotic fingers, legs, faces, skins and wearables to understand the human design and skills. 
 
