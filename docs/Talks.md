@@ -1,5 +1,9 @@
 # 2026
 
+06.2026
+*Insights from human-robot interaction for embodied arial systems*
+HKUST, NUS, Bristol workshop on arial robotics research
+
 05.2026     
 *How to conduct fundamental research? Insights from robotics and AI*        
 Research Lounge, Faculty of Graduate Studies, University of Moratuwa        
