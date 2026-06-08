@@ -1,6 +1,6 @@
 # 2026
 
-06.2026
+06.2026     
 *Insights from human-robot interaction for embodied arial systems*
 HKUST, NUS, Bristol workshop on arial robotics research
 
