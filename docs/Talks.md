@@ -2,7 +2,7 @@
 
 06.2026     
 *Insights from human-robot interaction for embodied arial systems*
-HKUST, NUS, Bristol workshop on arial robotics research
+HKUST, NUS, Bristol workshop on arial robotics research, University of Bristol
 
 05.2026     
 *How to conduct fundamental research? Insights from robotics and AI*        
