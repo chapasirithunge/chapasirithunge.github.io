@@ -1,5 +1,8 @@
 ## 2026
+- **Aerial Robotics Workshop**      
+It was great to take part in aerial robotics workshop to discuss the future opportunities between Bristol, Singapore and Hongkong. Awaiting to see great results!
 
+![](../assets/images/ARWS.jpg)
  
 - **Understanding Soft-Matter Stiffness: Key Challenges and Emerging Research Directions**   
 Half Day workshop at Robosoft 2026 in Kanazawa, Japan
