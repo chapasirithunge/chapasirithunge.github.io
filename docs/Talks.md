@@ -1,10 +1,10 @@
 # 2026
 
-09.2026
+09.2026     
 *Robotic Proxies for Understanding Human Communicative Design*        
 Microrobotics and biomedical robotics labs, University of Sheffield      
 
-07.2026
+07.2026     
 *Robots as experimetal models of human*        
 Mathematics of Human Behaviour: A multidisciplinary School, Isaac Newton Institute     
 
