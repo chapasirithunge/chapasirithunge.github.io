@@ -6,8 +6,7 @@
 
 07.2026     
 *Robots as experimetal models of human*        
-<span style="color: #0f7f0f;">Mathematics of Human Behaviour: A multidisciplinary School, Isaac Newton Institute </span>        
-[Listen on YouTube](https://www.youtube.com/watch?v=gmg5ZwAe9eg&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)            
+<span style="color: #0f7f0f;">Mathematics of Human Behaviour: A multidisciplinary School, Isaac Newton Institute </span> [Listen on YouTube](https://www.youtube.com/watch?v=gmg5ZwAe9eg&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)            
 
 06.2026     
 *Insights from human-robot interaction for embodied arial systems*      
@@ -15,8 +14,7 @@
 
 05.2026     
 *How to conduct fundamental research? Insights from robotics and AI*        
-<span style="color: #0f7f0f;">Research Lounge, Faculty of Graduate Studies, University of Moratuwa    </span>       
-[Listen on YouTube](https://www.youtube.com/watch?v=6m-PYhl3SHw&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)    
+<span style="color: #0f7f0f;">Research Lounge, Faculty of Graduate Studies, University of Moratuwa    </span> [Listen on YouTube](https://www.youtube.com/watch?v=6m-PYhl3SHw&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)    
 
 04.2026     
 *Soft Robotic Surrogates for Understanding Human Anatomical and Communicative Design*       
