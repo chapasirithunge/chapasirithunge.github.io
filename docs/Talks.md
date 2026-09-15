@@ -2,7 +2,7 @@
 
 09.2026     
 *Robotic Proxies for Understanding Human Communicative Design*        
-Microrobotics and biomedical robotics labs, University of Sheffield      
+<span style="color: #006400;">Microrobotics and Biomedical Robotics Labs, University of Sheffield</span>
 
 07.2026     
 *Robots as experimetal models of human*        
