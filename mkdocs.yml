@@ -33,6 +33,7 @@ nav:
     - Overview: projects/overview.md
     - Robotic Patients: projects/Robotic_Patients.md
     - Soft Robotics: projects/Soft_Manipulation.md
+    - Communicative Design: projects/Communication.md
     - Service Robots: projects/Service_robots.md
   - Talks: Talks.md
   - Gallery: 
