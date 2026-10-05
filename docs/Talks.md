@@ -1,5 +1,13 @@
 # 2026
 
+10.2026     
+*Robots as experimental models*        
+<span style="color: #0f7f0f;">Guest lecture at Robotics Research Seminar, University of Bristol</span>
+
+09.2026     
+*Information-driven Robot Design*        
+<span style="color: #0f7f0f;">Advanced Robotics Centre, Queen Mary University of London</span>
+
 09.2026     
 *Robotic Proxies for Understanding Human Communicative Design*        
 <span style="color: #0f7f0f;">Microrobotics and Biomedical Robotics Labs, University of Sheffield</span>
