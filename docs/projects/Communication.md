@@ -4,7 +4,6 @@ Robotic necks are a relatively underexplored part of robots, partly because they
 
 Here’s an example:
 
-
 <iframe
     width="560"
     height="315"
