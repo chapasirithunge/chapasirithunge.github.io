@@ -20,4 +20,3 @@ More hardware complexity doesn’t necessarily mean richer communication. Maybe 
 
 ???+  "Read related work here"
     [Communicative Efficiency of Single vs. Multi-Axis Robot Neck Motion](https://arxiv.org/abs/2607.07390)
-https://youtu.be/DMxifZyCsfQ
