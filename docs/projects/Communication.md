@@ -12,7 +12,7 @@ Here’s an example:
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen>
 </iframe>
-tf
+tf1
 
 More hardware complexity doesn’t necessarily mean richer communication. Maybe simpler approaches can work just as well for robot design. In the work below, we use information theory to explore this idea.
 
