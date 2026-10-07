@@ -4,16 +4,7 @@ Robotic necks are a relatively underexplored part of robots, partly because they
 
 Here’s an example:
 
-<iframe
-  width="560"
-  height="315"
-  src="https://youtube/DMxifZyCsfQ"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/DMxifZyCsfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 More hardware complexity doesn’t necessarily mean richer communication. Maybe simpler approaches can work just as well for robot design. In the work below, we use information theory to explore this idea.
