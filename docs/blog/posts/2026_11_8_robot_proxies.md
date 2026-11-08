@@ -11,7 +11,7 @@ Robotics has traditionally drawn inspiration from nature, using biological struc
 
 <figure markdown="span">
     ![](../assets/images/blog2.png){ width="75%" }
-    <figcaption></figcaption>
+    <figcaption>Robots can represent certain aspects of biology such as anatomy in extint species or future cyborgs</figcaption>
 </figure>
 
 
