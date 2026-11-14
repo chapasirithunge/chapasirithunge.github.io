@@ -1,5 +1,9 @@
 ## 2026     
 
+- **Embodied Intelligence Conference 2027**         
+We have just released the dates for EI 2027 and I'm serving as the general chair this year along with an brilliant team of organisers. Open for all disciplines [Register here](https://embodied-intelligence.org/)         
+
+
 - **Aerial Robotics Workshop**      
 It was great to take part in aerial robotics workshop to discuss the future opportunities between Bristol, EPFL, Singapore and Hongkong. Awaiting to see great results!
 
