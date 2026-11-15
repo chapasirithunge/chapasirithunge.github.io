@@ -2,6 +2,10 @@
 
 - **Embodied Intelligence Conference 2027**         
 We have just released the dates for EI 2027 and I'm serving as the general chair this year along with an brilliant team of organisers. Open for all disciplines [Register here](https://embodied-intelligence.org/)         
+    
+
+- **IEEE Telepresence Conference 2026**         
+I'm serving as a local chair at IEEE Telepresence 2026 in Bristol, November 2026 (https://conf.telepresence.ieee.org/)         
 
 
 - **Aerial Robotics Workshop**      
